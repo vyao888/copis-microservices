@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      database: copis-service-test
+      port: 27017
